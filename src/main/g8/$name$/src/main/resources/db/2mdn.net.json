@@ -1,0 +1,2704 @@
+{
+    "domain": "2mdn.net",
+    "owner": {
+        "name": "Google LLC",
+        "displayName": "Google",
+        "privacyPolicy": "https://policies.google.com/privacy?hl=en&gl=us",
+        "url": "http://google.com"
+    },
+    "source": [
+        "DuckDuckGo-AU"
+    ],
+    "prevalence": 0.0413,
+    "sites": 412,
+    "subdomains": [
+        "s0"
+    ],
+    "cnames": [],
+    "fingerprinting": 1,
+    "resources": [
+        {
+            "rule": "2mdn\\.net\\/instream\\/video\\/client\\.js",
+            "cookies": 0,
+            "fingerprinting": 1,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {
+                "Navigator.prototype.userAgent": 100
+            },
+            "sites": 143,
+            "prevalence": 0.0143,
+            "cnames": [],
+            "responseHashes": [
+                "d0bffc7261df1454c5e05475cda7d9e6647318dc6c3936767e1252bfe8849c54"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "gizmodo.com",
+                "lifehacker.com",
+                "people.com",
+                "www.bbc.com",
+                "www.dailymotion.com",
+                "www.dailymail.co.uk",
+                "www.healthline.com",
+                "www.ign.com",
+                "www.mapquest.com",
+                "www.merriam-webster.com",
+                "www.thespruceeats.com",
+                "optimistminds.com",
+                "www.chicagotribune.com",
+                "www.smallspacegardeningbasics.com",
+                "www.corbettreport.com",
+                "www.pocketgamer.com",
+                "cairnsnews.org",
+                "www.christianpost.com",
+                "airportguide.com",
+                "psychreel.com"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/ads\\/studio\\/cached_libs\\/gsap_3\\.9\\.1_min\\.js",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 9,
+            "prevalence": 0.000903,
+            "cnames": [],
+            "responseHashes": [
+                "6dbe9c2e13cf06c6633ea3fcf6d7bd30452561202a205c75a035cd1d8b93368f"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "asic4.com",
+                "liveonlineradio.net",
+                "www.digitalcitizen.life",
+                "www.excelforum.com",
+                "www.knowyourmobile.com",
+                "www.parcelmonitor.com",
+                "www.raymond.cc",
+                "www.techbout.com",
+                "www.websitebuilderinsider.com"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/879366\\/html_inpage_rendering_lib_200_276\\.js",
+            "cookies": 0,
+            "fingerprinting": 1,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {
+                "Navigator.prototype.userAgent": 19,
+                "HTMLMediaElement.prototype.canPlayType": 19,
+                "window.innerWidth": 7,
+                "window.innerHeight": 7,
+                "Date.prototype.getTime": 10
+            },
+            "sites": 23,
+            "prevalence": 0.00231,
+            "cnames": [],
+            "responseHashes": [
+                "96da839661d63f7cab3dc3e43613fee97166a472555cc91df21777d6d83e58d9"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "www.ebay.com",
+                "www.gamespot.com",
+                "www.ign.com",
+                "thefitnessmanual.com",
+                "www.eng-tips.com",
+                "www.perthnow.com.au",
+                "www.nejm.org",
+                "comicvine.gamespot.com",
+                "investing.com",
+                "www.seabreeze.com.au",
+                "coolconversion.com",
+                "www.metacritic.com",
+                "hotcopper.com.au",
+                "au.investing.com",
+                "www.investing.com",
+                "www.racingandsports.com.au",
+                "www.drive.com.au",
+                "www.tripadvisor.co.uk",
+                "mechanicbase.com",
+                "sixtyandme.com"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/sadbundle\\/4304892087301570560\\/970x250-Pepperstone_InBanner_EN\\/index\\.html",
+            "cookies": 0,
+            "fingerprinting": 1,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {
+                "Navigator.prototype.userAgent": 2
+            },
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "88ce575954f002837345e23e8ae95c3d815df0daa5e06ac9ab9bbf27fd76a669"
+            ],
+            "type": "Document",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "investing.com",
+                "www.investing.com"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/sadbundle\\/4304892087301570560\\/970x250-Pepperstone_InBanner_EN\\/PlusJakartaSansBold\\.woff",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "69a3c3c2d292ed99b18226f6aea28aef35a79c4e0216359214de9638db3161d0"
+            ],
+            "type": "Font",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "investing.com",
+                "www.investing.com"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/sadbundle\\/4304892087301570560\\/970x250-Pepperstone_InBanner_EN\\/PlusJakartaSansMedium\\.woff",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "775f021471f38f9f259c915b1655bc8f17d49a94c6f12c6d1d04eb6d6feb30e7"
+            ],
+            "type": "Font",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "investing.com",
+                "www.investing.com"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/sadbundle\\/4304892087301570560\\/970x250-Pepperstone_InBanner_EN\\/RobotoBold\\.woff",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "a35c4dc041867ef75f9a83c17f54af9a12bb607720596466eccb74d9bc2e1428"
+            ],
+            "type": "Font",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "investing.com",
+                "www.investing.com"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/sadbundle\\/4304892087301570560\\/970x250-Pepperstone_InBanner_EN\\/RobotoRegular\\.woff",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "7511808abc6778d566fc6431c1cded2afbf9cc005ba3671eca143c9d98cf1bc2"
+            ],
+            "type": "Font",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "investing.com",
+                "www.investing.com"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/sadbundle\\/4304892087301570560\\/970x250-Pepperstone_InBanner_EN\\/TitilliumWebBold\\.woff",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "58a5c697d293f52587ae28b38f224a466907cd076fa5c382884645ffc9bafdaf"
+            ],
+            "type": "Font",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "investing.com",
+                "www.investing.com"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/sadbundle\\/4304892087301570560\\/970x250-Pepperstone_InBanner_EN\\/TitilliumWebRegular\\.woff",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "09ff11e4478b05220784bcf7ac20e906b40021e122fd8fbb8acf2d6a67846ab5"
+            ],
+            "type": "Font",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "investing.com",
+                "www.investing.com"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/879366\\/Enabler_01_247\\.js",
+            "cookies": 0,
+            "fingerprinting": 1,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {
+                "Navigator.prototype.userAgent": 9,
+                "window.innerWidth": 9,
+                "window.innerHeight": 9
+            },
+            "sites": 13,
+            "prevalence": 0.0013,
+            "cnames": [],
+            "responseHashes": [
+                "e2ec81b19233fd4cd6ef5adcb45c0cbec6bd5673716ba0454ce56b67486ece46"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "investing.com",
+                "au.investing.com",
+                "coolconversion.com",
+                "downdetector.com.au",
+                "downdetector.com",
+                "framed.wtf",
+                "sixtyandme.com",
+                "thefitnessmanual.com",
+                "www.investing.com",
+                "www.racingandsports.com.au",
+                "www.speedtest.net",
+                "www.todaysparent.com",
+                "www.tripadvisor.co.uk"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/ads\\/studio\\/cached_libs\\/gsap_3\\.2\\.4_min\\.js",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 7,
+            "prevalence": 0.000702,
+            "cnames": [],
+            "responseHashes": [
+                "e8403779d45a9590b43c0ecf984ebe11e75fd2982630d658390a6001a6768770"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "investing.com",
+                "au.investing.com",
+                "farmbuy.com",
+                "globle-game.com",
+                "www.alfaowner.com",
+                "www.investing.com",
+                "www.womens.afl"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/sadbundle\\/4304892087301570560\\/970x250-Pepperstone_InBanner_EN\\/adlib\\.css",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "cac583d6cbbaee17012c24a561ef042fd04eb34cf91842624b478421ac23af00"
+            ],
+            "type": "Stylesheet",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "investing.com",
+                "www.investing.com"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/sadbundle\\/4304892087301570560\\/970x250-Pepperstone_InBanner_EN\\/adStyle\\.css",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "5e2b2c94d9deae23d0ebd87e5dd23f52ce90e7d8c3182fde35324246bd7e4c13"
+            ],
+            "type": "Stylesheet",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "investing.com",
+                "www.investing.com"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/sadbundle\\/4304892087301570560\\/970x250-Pepperstone_InBanner_EN\\/SplitText\\.min\\.js",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "9803885ef1504babd3030a5fe4ccc0f199edf3f9e7d8511ef38254688be6378a"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "investing.com",
+                "www.investing.com"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/sadbundle\\/4304892087301570560\\/970x250-Pepperstone_InBanner_EN\\/adlibUtils-v3\\.js",
+            "cookies": 0,
+            "fingerprinting": 2,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {
+                "Navigator.prototype.userAgent": 2,
+                "Navigator.prototype.platform": 2,
+                "Navigator.prototype.maxTouchPoints": 1,
+                "window.innerWidth": 1,
+                "window.innerHeight": 1
+            },
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "0adce1c9ca35fb661329721cf6e1fc3f660f022f2c33c03b6df44fedbc255ba7"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "investing.com",
+                "www.investing.com"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/sadbundle\\/4304892087301570560\\/970x250-Pepperstone_InBanner_EN\\/animation\\.js",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "f29bcc0d5a477caf5055820a56423f82297497f31fcdef4cfcb08ca84141d9d8"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "investing.com",
+                "www.investing.com"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/879366\\/prod_studio_01_247_videomodule\\.js",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 3,
+            "prevalence": 0.000301,
+            "cnames": [],
+            "responseHashes": [
+                "78b8b9c06e8648b397191402eb4ca35c9a83400e71f2338c84f2ef1393ef32cf"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "investing.com",
+                "au.investing.com",
+                "www.investing.com"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/dynamic\\/2\\/10978553\\/cdn\\.ad-lib\\.io\\/v3\\/partners\\/606eed45cda012000629ab8d\\/assets\\/singleFiles\\/61f537c7eee1335b41a3725b\\/original\\/new-logo-black-text\\.png_1657583066178_new-logo-black-text\\.png",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "investing.com",
+                "www.investing.com"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/ads\\/studio\\/Enabler\\.js",
+            "cookies": 0,
+            "fingerprinting": 1,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {
+                "Navigator.prototype.userAgent": 9,
+                "window.innerWidth": 9,
+                "window.innerHeight": 9
+            },
+            "sites": 11,
+            "prevalence": 0.0011,
+            "cnames": [],
+            "responseHashes": [
+                "bf6ec42c97f86957a324a484a37dd528b568a9ff2570965be53e6ec4b0dfdae2"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "bali.com",
+                "fishingmonthly.com.au",
+                "www.afc.com.au",
+                "www.alfaowner.com",
+                "www.behindthename.com",
+                "www.jackjumpers.com.au",
+                "www.morningstar.com.au",
+                "www.stereonet.com",
+                "www.surnamedb.com",
+                "www.womens.afl",
+                "www.womensweeklyfood.com.au"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/879366\\/express_html_inpage_rendering_lib_200_276\\.js",
+            "cookies": 0,
+            "fingerprinting": 1,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {
+                "Navigator.prototype.userAgent": 58,
+                "HTMLMediaElement.prototype.canPlayType": 58,
+                "Date.prototype.getTime": 37
+            },
+            "sites": 77,
+            "prevalence": 0.00772,
+            "cnames": [],
+            "responseHashes": [
+                "e41d1ae45acbf836b8dcc29544c7e41cced4211214df601d5284a7e9c7134c73"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "osxdaily.com",
+                "whatismyipaddress.com",
+                "www.cnet.com",
+                "www.alfaowner.com",
+                "fssquad.com",
+                "www.surnamedb.com",
+                "moodbelle.com",
+                "www.mmo-champion.com",
+                "www.minecraftskins.com",
+                "marriedbiography.com",
+                "slashdot.org",
+                "www.thedodo.com",
+                "www.computerworld.com",
+                "www.forexfactory.com",
+                "www.gearhungry.com",
+                "globle-game.com",
+                "best-hashtags.com",
+                "www.newideafood.com.au",
+                "www.instyle.com",
+                "www.xe.com"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/instream\\/video\\/client\\.js",
+            "cookies": 0,
+            "fingerprinting": 1,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {
+                "Navigator.prototype.userAgent": 7
+            },
+            "sites": 8,
+            "prevalence": 0.000802,
+            "cnames": [],
+            "responseHashes": [],
+            "type": "Fetch",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "blizzardwatch.com",
+                "mtgazone.com",
+                "www.christianpost.com",
+                "www.convertunits.com",
+                "www.minecraftforum.net",
+                "www.mmo-champion.com",
+                "www.wowhead.com",
+                "www.zerotackle.com"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/ads\\/studio\\/cached_libs\\/createjs_2019\\.11\\.15_min\\.js",
+            "cookies": 0,
+            "fingerprinting": 1,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {
+                "Navigator.prototype.userAgent": 28,
+                "Date.prototype.getTime": 25
+            },
+            "sites": 41,
+            "prevalence": 0.00411,
+            "cnames": [],
+            "responseHashes": [
+                "bc12347103da4da2ac30f8b4defd567679284e0bad691a54fad78ad804fc9c27"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "www.yeggi.com",
+                "www.melbourneplaygrounds.com.au",
+                "www.realcommercial.com.au",
+                "www.gpucheck.com",
+                "www.racenet.com.au",
+                "www.macrumors.com",
+                "www.game-debate.com",
+                "www.ultrabookreview.com",
+                "www.whats-on-netflix.com",
+                "boingboing.net",
+                "strengthlevel.com",
+                "www.behindthevoiceactors.com",
+                "www.sportsrec.com",
+                "gpu.userbenchmark.com",
+                "forums.spacebattles.com",
+                "www.theloadout.com",
+                "www.ozbargain.com.au",
+                "www.soundguys.com",
+                "www.androidpolice.com",
+                "www.hitc.com"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/simgad\\/17939879698422157855",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 4,
+            "prevalence": 0.000401,
+            "cnames": [],
+            "responseHashes": [
+                "a189fbe3d036468746fefeabea639276d44b5583a2fd21ad499a8aa832cd4f0c"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "gamespot.com",
+                "gamefaqs.gamespot.com",
+                "www.gamespot.com",
+                "www.metacritic.com"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/simgad\\/17113332735085372848",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 4,
+            "prevalence": 0.000401,
+            "cnames": [],
+            "responseHashes": [
+                "a2ed4f11a5848a8424cc3aab2c1fb6769216d9e5b5730f0dc8a965f73ca33957"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "gamespot.com",
+                "gamefaqs.gamespot.com",
+                "www.gamespot.com",
+                "www.metacritic.com"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/sadbundle\\/13962247156866291794\\/Magnolia_AvailableNow_Bespoke_AU-EN_300x250\\/index\\.html",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [],
+            "type": "Document",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "gamespot.com",
+                "www.metacritic.com"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/simgad\\/1501291908494380881",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 3,
+            "prevalence": 0.000301,
+            "cnames": [],
+            "responseHashes": [
+                "de171c78bf384ebb5aeda10f5fe7fd1d127513983b8476f264c5657b5610b2bd"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "babycentre.co.uk",
+                "soccer.nbcsports.com",
+                "www.foodnetwork.com"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/879366\\/dfa7banner_html_inpage_rendering_lib_200_268\\.js",
+            "cookies": 0,
+            "fingerprinting": 1,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {
+                "Navigator.prototype.userAgent": 28,
+                "Navigator.prototype.mimeTypes": 28,
+                "HTMLMediaElement.prototype.canPlayType": 28
+            },
+            "sites": 33,
+            "prevalence": 0.00331,
+            "cnames": [],
+            "responseHashes": [
+                "6d28830ef0fdeba41bc402b8b12341e929c6c66db8fe512deb2b1baa9611745b"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "www.technologyreview.com",
+                "www.racenet.com.au",
+                "www.goodchefbadchef.com.au",
+                "www.examiner.com.au",
+                "farmonlineweather.com.au",
+                "www.boatsales.com.au",
+                "www.thecourier.com.au",
+                "indaily.com.au",
+                "www.punters.com.au",
+                "www.bordermail.com.au",
+                "www.differencebetween.net",
+                "www.bendigoadvertiser.com.au",
+                "keepup.com.au",
+                "www.2gb.com",
+                "www.golf.org.au",
+                "www.mustdobrisbane.com",
+                "www.centralwesterndaily.com.au",
+                "mouthsofmums.com.au",
+                "www.familyfriendpoems.com",
+                "www.pinkbike.com"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/879366\\/DcmEnabler_01_243\\.js",
+            "cookies": 0,
+            "fingerprinting": 1,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {
+                "Navigator.prototype.userAgent": 5
+            },
+            "sites": 5,
+            "prevalence": 0.000502,
+            "cnames": [],
+            "responseHashes": [
+                "77a6e7584722f285dd6b3039728b6f1aab3948e60b4c26298600f1a5ee155bbb"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "cyclingtips.com",
+                "indaily.com.au",
+                "mouthsofmums.com.au",
+                "www.flightradar24.com",
+                "www.golf.org.au"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/879366\\/html_inpage_rendering_lib_200_260\\.js",
+            "cookies": 0,
+            "fingerprinting": 1,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {
+                "Navigator.prototype.userAgent": 6,
+                "Navigator.prototype.mimeTypes": 6,
+                "HTMLMediaElement.prototype.canPlayType": 6,
+                "window.innerWidth": 2,
+                "window.innerHeight": 2
+            },
+            "sites": 6,
+            "prevalence": 0.000602,
+            "cnames": [],
+            "responseHashes": [
+                "61aa815692e9edf603f12550ad0976ccde355df6e118e42f018a691738997d40"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "downdetector.com.au",
+                "downdetector.com",
+                "edition.cnn.com",
+                "money.cnn.com",
+                "www.cnn.com",
+                "www.speedtest.net"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/ads\\/richmedia\\/studio\\/creative\\/62215174\\/62266327_f0a5284678e2fc5b5a1a43f5dabd6125_creative_def\\.js",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "957bc0dbbfd4063134909600f966c95cb273ea28b30407d2d3424bdbcd1bafde"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "downdetector.com.au",
+                "downdetector.com"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/ads\\/richmedia\\/studio\\/pv2\\/62214421\\/20221024082009168\\/1012%20Swoop%2030Day%20LBoard%20v01\\/index\\.html",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [],
+            "type": "Document",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "downdetector.com.au",
+                "www.speedtest.net"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/ads\\/richmedia\\/studio\\/pv2\\/62215174\\/20221024162256390\\/1010%20Swoop%20Enterprise%20MRec%20v01\\/index\\.html",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "d60a4c1bd772e217c30688d501767b537306ff4884343322dddf9ddd9f381ffa"
+            ],
+            "type": "Document",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "downdetector.com.au",
+                "downdetector.com"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/ads\\/richmedia\\/studio\\/pv2\\/62214370\\/20221024082042165\\/1012%20Swoop%2030Day%20MRec%20v01\\/index\\.html",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "3efc3a373894e14c7dfe776eb715115b91888167d25a7c0f256b39ab4713fc61"
+            ],
+            "type": "Document",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "downdetector.com.au",
+                "www.speedtest.net"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/ads\\/richmedia\\/studio\\/pv2\\/62214421\\/20221024082009168\\/1012%20Swoop%2030Day%20LBoard%20v01\\/styles\\.css",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [],
+            "type": "Stylesheet",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "downdetector.com.au",
+                "www.speedtest.net"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/ads\\/studio\\/cached_libs\\/gsap_3\\.5\\.1_min\\.js",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 11,
+            "prevalence": 0.0011,
+            "cnames": [],
+            "responseHashes": [
+                "341e0d761251ee538d0cad6322c66abdbf78dc7d6f3ca62f3459fab822a2103f"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "downdetector.com.au",
+                "downdetector.com",
+                "fuse-box.info",
+                "instaviewers.net",
+                "marriedbiography.com",
+                "wallpaperaccess.com",
+                "www.autotrader.com.au",
+                "www.pocketlyrics.com",
+                "www.speedtest.net",
+                "www.trademe.co.nz",
+                "www.yeggi.com"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/ads\\/richmedia\\/studio\\/pv2\\/62214421\\/20221024082009168\\/1012%20Swoop%2030Day%20LBoard%20v01\\/js\\/script\\.js",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "downdetector.com.au",
+                "www.speedtest.net"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/ads\\/richmedia\\/studio\\/pv2\\/62215174\\/20221024162256390\\/1010%20Swoop%20Enterprise%20MRec%20v01\\/styles\\.css",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "5b738c4e228407227ba040c207eaa8315a275285e7353507585d0b7f05e7309c"
+            ],
+            "type": "Stylesheet",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "downdetector.com.au",
+                "downdetector.com"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/ads\\/richmedia\\/studio\\/pv2\\/62215174\\/20221024162256390\\/1010%20Swoop%20Enterprise%20MRec%20v01\\/js\\/script\\.js",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "5933b4f0bd450909b0111dff287fcf6f2c6d9c42b825fd57efaba2a368cdc016"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "downdetector.com.au",
+                "downdetector.com"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/ads\\/richmedia\\/studio\\/pv2\\/62214370\\/20221024082042165\\/1012%20Swoop%2030Day%20MRec%20v01\\/styles\\.css",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [],
+            "type": "Stylesheet",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "downdetector.com.au",
+                "www.speedtest.net"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/ads\\/richmedia\\/studio\\/pv2\\/62214370\\/20221024082042165\\/1012%20Swoop%2030Day%20MRec%20v01\\/js\\/script\\.js",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "downdetector.com.au",
+                "www.speedtest.net"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/ads\\/richmedia\\/studio\\/pv2\\/62215174\\/20221024162256390\\/1010%20Swoop%20Enterprise%20MRec%20v01\\/images\\/logo\\.png",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "cea54c36839ff27c564959591e1722da51413e27ecd9ffff592e7eb027f8c07c"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "downdetector.com.au",
+                "downdetector.com"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/ads\\/richmedia\\/studio\\/pv2\\/62215174\\/20221024162256390\\/1010%20Swoop%20Enterprise%20MRec%20v01\\/images\\/banner-texture\\.png",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "b57e2b0df903d74db908d31042e65ca4e66a66325d73b850bcc55937206a4d81"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "downdetector.com.au",
+                "downdetector.com"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/ads\\/richmedia\\/studio\\/pv2\\/62215174\\/20221024162256390\\/1010%20Swoop%20Enterprise%20MRec%20v01\\/images\\/banner-bg\\.jpg",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "35505f70c6d923f47de61f56aa248159d9e5d1f3bc54c5a8d4ac253e078654e4"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "downdetector.com.au",
+                "downdetector.com"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/ads\\/richmedia\\/studio\\/pv2\\/62215174\\/20221024162256390\\/1010%20Swoop%20Enterprise%20MRec%20v01\\/images\\/btn-cta\\.png",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "6c50603e26dc5c7c63d4984affec92eccd90582fad7e4c90be8b032507aa774b"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "downdetector.com.au",
+                "downdetector.com"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/simgad\\/1182133259951818972",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 4,
+            "prevalence": 0.000401,
+            "cnames": [],
+            "responseHashes": [
+                "d78420e3855bf5ac17e062b9a2b2a206f4d51a9ba76ebd336d1993036137b5ed"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "fandom.com",
+                "howlongtobeat.com",
+                "vermintide2.fandom.com",
+                "www.dexerto.com"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/ads\\/richmedia\\/studio\\/creative\\/62212898\\/62254353_7b89c788bb29a14d66b10746007d0f7f_creative_def\\.js",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "9156a2e847b0d480cb89e7ca8e3344716ac0f16f5083e7db654e51a62c5e18a9"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "cnn.com",
+                "money.cnn.com"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/ads\\/richmedia\\/studio\\/pv2\\/62212898\\/20221014061104614\\/300x250_ParkRoyal\\/index\\.html",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [],
+            "type": "Document",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "cnn.com",
+                "money.cnn.com"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/simgad\\/5527219685188519807",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "26a71e198176b30d424f68f31e7006b52f2d24769d38be9d6d6320686f9dd593"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "indiatimes.com",
+                "www.jigsawplanet.com"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/simgad\\/6797043039012255111",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "f4b935c1a59fe66e6b83dd1dcbd72944733849c9c4eb1fe940c57edd04d119de"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "ew.com",
+                "pitchfork.com"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/simgad\\/3481110610651220218",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 4,
+            "prevalence": 0.000401,
+            "cnames": [],
+            "responseHashes": [
+                "a0c5d33d6b2a1464a0103bb85924f945abe74a250a1426a608fdf2018cc63bb3"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "gamerhour.net",
+                "homemuse.com.au",
+                "myotakuworld.com",
+                "www.smallspacegardeningbasics.com"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/simgad\\/15480865796250485892",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "d03c8be6ec5b25ca0657b57745e1cca26d9ec5c956564f14f24194e8930e62d0"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "stackexchange.com",
+                "raspberrypi.stackexchange.com"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/simgad\\/5260166888000358016",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "6a88270561f949b42cda6879a6abc4c263e9e11c10a57164b6da4b50f8654cd0"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "hackaday.com",
+                "www.alldatasheet.com"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/simgad\\/11422787446934795281",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "676883564ae4979b0fa8528d72f9d8d3df57b7e1e9a57d4ff1ebabf818629ac3"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "heavy.com",
+                "www.givemesport.com"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/dfp\\/91711\\/11251981\\/1668018564289\\/YETI_SB160_300x250\\/YETI_SB160_300x250\\.html",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "3d9d6f0c6ae34173f5cf14cff290ac221c6747628f7dbf089925563193ec3317"
+            ],
+            "type": "Document",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "pinkbike.com",
+                "www.pinkbike.com"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/dfp\\/91711\\/11251981\\/1668018564289\\/YETI_SB160_300x250\\/YETI_SB160_300x250\\.js",
+            "cookies": 0,
+            "fingerprinting": 1,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {
+                "window.innerWidth": 2,
+                "window.innerHeight": 2,
+                "window.devicePixelRatio": 2
+            },
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "227d4e914e8e80ecbe055789cb3c354860ba62ae94d175f65f94b89d838425aa"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "pinkbike.com",
+                "www.pinkbike.com"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/dfp\\/91711\\/11251981\\/1668018564289\\/YETI_SB160_300x250\\/images\\/YETI_SB160_300x250_atlas_1\\.jpg",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "807138a795dc66bf8272c7eda7a037b7dfb615a7a5a6b28f1f0209411285610d"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "pinkbike.com",
+                "www.pinkbike.com"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/sadbundle\\/343788857926653808\\/MAR-422-Bumper-VIN-728x90-V1\\/index\\.html",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 4,
+            "prevalence": 0.000401,
+            "cnames": [],
+            "responseHashes": [
+                "8566f06b56771095f15b3bac0c1e3e4b6e27884e6a6e98063942301668e36baa"
+            ],
+            "type": "Document",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "manuals.co",
+                "tides4fishing.com",
+                "www.engine-specs.net",
+                "www.torquecars.com"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/sadbundle\\/343788857926653808\\/MAR-422-Bumper-VIN-728x90-V1\\/styles\\/style\\.css",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 3,
+            "prevalence": 0.000301,
+            "cnames": [],
+            "responseHashes": [
+                "46b1d904f6541b630e43fca47e1a5ab5500c575298f5891290c1d19be8b07b94"
+            ],
+            "type": "Stylesheet",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "manuals.co",
+                "tides4fishing.com",
+                "www.engine-specs.net"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/sadbundle\\/343788857926653808\\/MAR-422-Bumper-VIN-728x90-V1\\/scripts\\/base64\\.js",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 3,
+            "prevalence": 0.000301,
+            "cnames": [],
+            "responseHashes": [
+                "d47b15f9ceed997958d2926eb66869594d088cbd2e0a9cb1903d8517ed32b86e"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "manuals.co",
+                "tides4fishing.com",
+                "www.engine-specs.net"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/sadbundle\\/343788857926653808\\/MAR-422-Bumper-VIN-728x90-V1\\/scripts\\/script\\.js",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 3,
+            "prevalence": 0.000301,
+            "cnames": [],
+            "responseHashes": [
+                "4a68cf90e016ba57dcbcc7a2a011387b8b5bc5155e05c5c8387d3e209a2b8d43"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "manuals.co",
+                "tides4fishing.com",
+                "www.engine-specs.net"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/simgad\\/5381056925169577868",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 3,
+            "prevalence": 0.000301,
+            "cnames": [],
+            "responseHashes": [
+                "b3d3dc8e5bd4b85c2981ad15ca7bed54eb775e6bbd14a599fb3b58d16818c857"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "nationaltoday.com",
+                "whatismyipaddress.com",
+                "www.androidsage.com"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/simgad\\/4194953445403327357",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 4,
+            "prevalence": 0.000401,
+            "cnames": [],
+            "responseHashes": [],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "nypost.com",
+                "www.adelaidenow.com.au",
+                "www.couriermail.com.au",
+                "www.ntnews.com.au"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/simgad\\/7556364902190350689",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "7e404e568a1f49ce0d260fd6f22988483325fe1b31e2be9ec3054bb45e0bd560"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "people.com",
+                "www.recipetineats.com"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/ads\\/studio\\/cached_libs\\/createjs_2015\\.11\\.26_54e1c3722102182bb133912ad4442e19_min\\.js",
+            "cookies": 0,
+            "fingerprinting": 1,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {
+                "Navigator.prototype.userAgent": 1,
+                "Date.prototype.getTime": 1
+            },
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "575c82f23dbb9285df2f62c7c8121c65d89e8137713110a149067d695975215e"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "quackr.io",
+                "www.eng-tips.com"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/simgad\\/16962963768266320094",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "991b83816c4eb5ca37856acb4b8fa9209c44175c1f5b3600fa90e4f917de8340"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "thehill.com",
+                "www.worldsurfleague.com"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/sadbundle\\/343788857926653808\\/MAR-422-Bumper-VIN-728x90-V1\\/images\\/bg\\.jpg",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "f2568661647ad268093032e52de6197c1745ed306d2e48d90660fe3334bd12ca"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "tides4fishing.com",
+                "www.engine-specs.net"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/dfp\\/504249\\/5199687273\\/1662105954100\\/CRTV-2006_728x90_Leaderboard\\/CRTV-2006_Domain%20Resi%20-%20Spring%20Campaign%202022%20-%20728x90_Leaderboard\\.html",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "9bd421e76c6b773b4dd2b8114053110260cd737e6a8ad416f793590ef4ff84b3"
+            ],
+            "type": "Document",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "2gb.com",
+                "www.2gb.com"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/dfp\\/504249\\/5199687273\\/1662105954100\\/CRTV-2006_728x90_Leaderboard\\/images\\/Image_HR\\.jpg",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "61fdf4da4fc82ac096909cf155d1f85e42ec6ac4057748c39cc3b1617d51abad"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "2gb.com",
+                "www.2gb.com"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/dfp\\/504249\\/5199687273\\/1662105954100\\/CRTV-2006_728x90_Leaderboard\\/images\\/Top_1\\.png",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "2ba9ff8172961ff4cc4dd0a63defa117984a5724c7903f7fa8e7df81bf5d1488"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "2gb.com",
+                "www.2gb.com"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/dfp\\/504249\\/5199687273\\/1662105954100\\/CRTV-2006_728x90_Leaderboard\\/images\\/Top_2\\.png",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "2gb.com",
+                "www.2gb.com"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/simgad\\/14058047338400723081",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "fb75436f218626e3357ff163c858345bc56828cb587127065f2d99dcc36ae3e6"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "allrecipes.com",
+                "www.parents.com"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/879366\\/DcmEnabler_01_247\\.js",
+            "cookies": 0,
+            "fingerprinting": 1,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {
+                "Navigator.prototype.userAgent": 4
+            },
+            "sites": 4,
+            "prevalence": 0.000401,
+            "cnames": [],
+            "responseHashes": [
+                "467a5b06cb117035f7882e8c71d80e093f04ce586c1ac2b84e7e4adf978edb30"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "bettycrocker.com",
+                "www.forexfactory.com",
+                "www.moneymag.com.au",
+                "www.op.gg"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/creatives\\/assets\\/4003215\\/FreigSanLFProMed\\.woff",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 3,
+            "prevalence": 0.000301,
+            "cnames": [],
+            "responseHashes": [
+                "ea0cb365f418619ec7772f786b78463fa061c17a8e107e18e79741fa83af6c0d"
+            ],
+            "type": "Font",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "bettycrocker.com",
+                "www.op.gg",
+                "www.tripadvisor.co.uk"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/creatives\\/assets\\/3981799\\/FreigSanLFProSemBL\\.woff2",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 3,
+            "prevalence": 0.000301,
+            "cnames": [],
+            "responseHashes": [
+                "1e3ff9c6b3b37f52240581b7a35515ec81523187ca24e6cfa56a6547735f57eb"
+            ],
+            "type": "Font",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "bettycrocker.com",
+                "www.op.gg",
+                "www.tripadvisor.co.uk"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/simgad\\/11861901600354734002",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 3,
+            "prevalence": 0.000301,
+            "cnames": [],
+            "responseHashes": [
+                "7f706692c311bae264c0f3aa462160cc8e1f78d3fd2929e44fc3d8fb73317839"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "bodyandsoul.com.au",
+                "www.gq.com",
+                "www.serebii.net"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/simgad\\/15037036577150461485",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 4,
+            "prevalence": 0.000401,
+            "cnames": [],
+            "responseHashes": [
+                "292a97f5f64f5386f85e933d1141af966ea046dea6d0bb25efd1bbd3cab84ab5"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "brisbanetimes.com.au",
+                "www.smh.com.au",
+                "www.theage.com.au",
+                "www.watoday.com.au"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/simgad\\/17673242566438633445",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 4,
+            "prevalence": 0.000401,
+            "cnames": [],
+            "responseHashes": [
+                "a97ad7778876b0148f9877694a838667a072462f06f4e0cd9b45a7dd74e74bba"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "brisbanetimes.com.au",
+                "www.smh.com.au",
+                "www.theage.com.au",
+                "www.watoday.com.au"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/simgad\\/8542281820791812702",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "8579180c75dc3a2a735a78fc7d25bd26336d2448374e001f474d290dc7949147"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "checkyourmath.com",
+                "www.linuxquestions.org"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/sadbundle\\/3624198336230249683\\/970x250\\/index\\.html",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [],
+            "type": "Document",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "countryliving.com",
+                "www.goodhousekeeping.com"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/simgad\\/16014711918362881002",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "0a258813c72a71e042303de1e31a29545c7f2e2a6e444db75839cc143437d868"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "eng-tips.com",
+                "www.whatismyip.com"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/879366\\/DcmEnabler_01_111\\.js",
+            "cookies": 0,
+            "fingerprinting": 1,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {
+                "Navigator.prototype.userAgent": 2
+            },
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "d67deca10d0abc7a1ba9dd0cc901dc53a81efc7949ed74e9f0507672de0455ad"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "familyfriendpoems.com",
+                "www.familyfriendpoems.com"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/simgad\\/15074413403685850311",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "809b7f1ffe68ba844660615b007003536f68ae4ffcd5e17a668e373e05d0c555"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "free-freecell-solitaire.com",
+                "www.free-freecell-solitaire.com"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/sadbundle\\/12401911851275716286\\/Asset_4_Display_160x600\\/index\\.html",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "db9a0e0f737062008cf0fc76ae09af9eb10f5b78326816049846df76c99250e3"
+            ],
+            "type": "Document",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "free-freecell-solitaire.com",
+                "www.free-freecell-solitaire.com"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/sadbundle\\/12401911851275716286\\/Asset_4_Display_160x600\\/index\\.js",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "free-freecell-solitaire.com",
+                "www.free-freecell-solitaire.com"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/sadbundle\\/8663195426752820117\\/index\\.html",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 3,
+            "prevalence": 0.000301,
+            "cnames": [],
+            "responseHashes": [
+                "6dddfa9b6bf1981c705941fe2c29dc1ed33e2047b2d31c7d407c39a123b09607"
+            ],
+            "type": "Document",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "insidehook.com",
+                "www.self.com",
+                "www.seventeen.com"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/sadbundle\\/8663195426752820117\\/images\\/13132426\\.svg",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "067b526552d151c3edb563f2d6821406d77ace7c1478b054bc476327bdcb4c51"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "insidehook.com",
+                "www.seventeen.com"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/sadbundle\\/8663195426752820117\\/images\\/13132427\\.jpg",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "2bd5c50457c64e9bf7b212f03eda4485f39e676c7a37eea3382113f7f165230d"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "insidehook.com",
+                "www.seventeen.com"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/sadbundle\\/8663195426752820117\\/images\\/13132429\\.jpg",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "29a7d8e16f360f6c446fbc48de3c33bd3199d56fb3f8bea5fda6061e5e9cc026"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "insidehook.com",
+                "www.seventeen.com"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/sadbundle\\/8663195426752820117\\/images\\/13132431\\.jpg",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "2bd5c50457c64e9bf7b212f03eda4485f39e676c7a37eea3382113f7f165230d"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "insidehook.com",
+                "www.seventeen.com"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/sadbundle\\/8663195426752820117\\/images\\/13132433\\.svg",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "f15072dbc335264c418bb3e42d0b2580186b02accc8205f46dc9b02314bb1739"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "insidehook.com",
+                "www.seventeen.com"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/sadbundle\\/8663195426752820117\\/images\\/13132434\\.jpg",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "ff50c7576d45f8923c3badfa721b042b0265a413e661992e5d93acee4168570c"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "insidehook.com",
+                "www.seventeen.com"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/sadbundle\\/8663195426752820117\\/images\\/13132436\\.jpg",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "12ad74523fd2e75f722296ca14a26699f114cd3ea2eceb2465b62aa735143652"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "insidehook.com",
+                "www.seventeen.com"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/sadbundle\\/8663195426752820117\\/images\\/13132438\\.jpg",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "ff50c7576d45f8923c3badfa721b042b0265a413e661992e5d93acee4168570c"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "insidehook.com",
+                "www.seventeen.com"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/sadbundle\\/8663195426752820117\\/images\\/13132440\\.svg",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "accdf595c228e002211cd3b376fb4003eb4e1c436f81f2f1801f487867956a51"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "insidehook.com",
+                "www.seventeen.com"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/simgad\\/17610819389131571163",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "9aedac4d2e9ef4d2884a3bfb4525fc34d38a467a54105369ae4a303ed5de3b37"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "justhorseracing.com.au",
+                "www.justhorseracing.com.au"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/sadbundle\\/9327940873811857686\\/728x90\\.html",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "26cd4538de5d806564dacfde3eff9590ad5a0123ad73cb8d108e85cb2d9fdc35"
+            ],
+            "type": "Document",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "lyricsondemand.com",
+                "www.minecraftskins.com"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/simgad\\/18044273245453315250",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "7c06f002bda20a7064fadd50a94e669a3aef876634df29121b16b32acdfdffdf"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "pedestrian.tv",
+                "www.pedestrian.tv"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/simgad\\/7754373684233864898",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "a471d07085345078652cddbd401fdfe36db5c3842ef09c77b9097eb41380c088"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "seekbusiness.com.au",
+                "www.seekbusiness.com.au"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/simgad\\/8892608890219288214",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "4de3080a5f468cadd12c020fbc513c0516eb38e7136047c6a484fc4503322ec8"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "seekbusiness.com.au",
+                "www.seekbusiness.com.au"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/simgad\\/18337834433720544487",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "884eabfdafcfbff4943d6c4b4938c80fa18c1996cefae25f560dcf7ecba896d9"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "seekbusiness.com.au",
+                "www.seekbusiness.com.au"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/simgad\\/17003830212736710491",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "3e8ac74615a9e2245b23be5b6d25017e61b2b4c8d12328e42491b40722e6bb02"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "seekbusiness.com.au",
+                "www.seekbusiness.com.au"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/simgad\\/7478717111204392294",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "3f398353a62baf343f59297db9ec31b17855f7917ed803e0569d372646f24848"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "sofascore.com",
+                "www.sofascore.com"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/ads\\/richmedia\\/studio\\/creative\\/62214421\\/62261715_b9fafed8869185e21d7c0e62141c81dd_creative_def\\.js",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "63ee18ecdc196cf107e29b46c81abc6df2ce286a0017e342fce3a61d3571d1bc"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "speedtest.net",
+                "www.speedtest.net"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/ads\\/richmedia\\/studio\\/creative\\/62214370\\/62261733_ac398b6477ed4cc6565be76f0ba4cb58_creative_def\\.js",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "d850091cc692f090e8f294123637e87584d3a3075cbde1deace73897f2397a03"
+            ],
+            "type": "Script",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "speedtest.net",
+                "www.speedtest.net"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/sadbundle\\/6652555067969882866\\/728x90_en_none_none_images%20for%20widget_220x90_10%20\\(3\\)\\.jpg_F8F5EE_b79cfb5e-4297-4f50-ad71-8c35436074b6\\/728x90\\.html",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "dd22b2a87837c9663a28f2932d67e6461fc1fa69ab131520d2103038c473a29c"
+            ],
+            "type": "Document",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "surnamedb.com",
+                "www.surnamedb.com"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/sadbundle\\/6652555067969882866\\/728x90_en_none_none_images%20for%20widget_220x90_10%20\\(3\\)\\.jpg_F8F5EE_b79cfb5e-4297-4f50-ad71-8c35436074b6\\/style\\.css",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "715e822eb43bca47ee7e50bc62e3dff8e957aa736519ae3bbe7a5098badfad60"
+            ],
+            "type": "Stylesheet",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "surnamedb.com",
+                "www.surnamedb.com"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/sadbundle\\/6652555067969882866\\/728x90_en_none_none_images%20for%20widget_220x90_10%20\\(3\\)\\.jpg_F8F5EE_b79cfb5e-4297-4f50-ad71-8c35436074b6\\/220x90img\\.jpg",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "35739f3c70c8d0f649bd6c29efe890e83e98efba888ee4d2ce04437bb358bb5c"
+            ],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "surnamedb.com",
+                "www.surnamedb.com"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/sadbundle\\/1743108245711768113\\/Q3-Fluid_Engine_Paid%20Ads_PRDisplay_US_Google_Amazon_Beautiful_Site_300x250_Album\\/index\\.html",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [
+                "4a0e7b6cd45f43caa28aabade3370b7f6f2e47c0c93a4dc1c05cf32a8ff35da8"
+            ],
+            "type": "Document",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "talkbass.com",
+                "www.yeggi.com"
+            ]
+        },
+        {
+            "rule": "2mdn\\.net\\/simgad\\/16574530144145938279",
+            "cookies": 0,
+            "fingerprinting": 0,
+            "subdomains": [
+                "s0"
+            ],
+            "apis": {},
+            "sites": 2,
+            "prevalence": 0.000201,
+            "cnames": [],
+            "responseHashes": [],
+            "type": "Image",
+            "firstPartyCookies": {},
+            "firstPartyCookiesSent": {},
+            "exampleSites": [
+                "tradefarmmachinery.com.au",
+                "www.tradefarmmachinery.com.au"
+            ]
+        }
+    ],
+    "categories": [
+        "Ad Motivated Tracking",
+        "Advertising",
+        "Ad Fraud"
+    ],
+    "performance": {},
+    "cookies": 0,
+    "topInitiators": [
+        {
+            "domain": "doubleclick.net",
+            "prevalence": 0.37535410764872523
+        },
+        {
+            "domain": "imasdk.googleapis.com",
+            "prevalence": 0.24504249291784702
+        },
+        {
+            "domain": "googlesyndication.com",
+            "prevalence": 0.1671388101983003
+        },
+        {
+            "domain": "createjs.com",
+            "prevalence": 0.09773371104815864
+        },
+        {
+            "domain": "first party",
+            "prevalence": 0.0226628895184136
+        },
+        {
+            "domain": "confiant-integrations.net",
+            "prevalence": 0.021246458923512748
+        },
+        {
+            "domain": "adlightning.com",
+            "prevalence": 0.012747875354107648
+        },
+        {
+            "domain": "anyclip.com",
+            "prevalence": 0.009915014164305949
+        },
+        {
+            "domain": "d2uap9jskdzp2.cloudfront.net",
+            "prevalence": 0.0084985835694051
+        },
+        {
+            "domain": "geoedge.be",
+            "prevalence": 0.007082152974504249
+        }
+    ],
+    "types": {
+        "Script": 420,
+        "Document": 33,
+        "Font": 18,
+        "Stylesheet": 15,
+        "Image": 115,
+        "Fetch": 8
+    },
+    "nameservers": [
+        "ns3.google.com",
+        "ns1.google.com",
+        "ns4.google.com",
+        "ns2.google.com"
+    ]
+}
